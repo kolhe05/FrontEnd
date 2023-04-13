@@ -1,0 +1,45 @@
+
+.h1
+{
+    color:rgb(252, 247, 247);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.h2
+{
+    color: rgb(240, 237, 231);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body
+{
+    border:solid rgb(239, 227, 240) 5px;
+    background-color: rgb(196, 223, 226);
+    background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif)
+}
+
+/*grouping*/
+input,label
+{
+    color: rgb(250, 245, 249);
+}
+
+button
+{
+    color: rgb(162, 30, 167);
+    background-color: rgb(252, 240, 240) ;
+    
+
+}
+h1
+{
+   color: beige;
+   font-size: 40px;
+}
+p
+{
+  color: beige;
+}
